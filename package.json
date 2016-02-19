@@ -1,0 +1,44 @@
+{
+  "name": "edgrid-template",
+  "version": "1.0.0",
+  "description": "Scaffolding for new projects with edgrid, jade, sass, icons fonts and gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgrid/edgrid-template.git"
+  },
+  "keywords": [],
+  "author": "Alvaro Felipe <informes@escueladigital.pe>",
+  "contributors": [
+    {
+      "name": "Daniel Guillermo Romero Gelvez",
+      "email": "danielromeroauk@gmail.com",
+      "url": "http://adsiar.com"
+    },
+    {
+      "name": "Carlos Eduardo Cuatin Guaitarilla",
+      "email": "cecg1996@gmail.com",
+      "url": "http://carloscuatin.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgrid/edgrid-template/issues"
+  },
+  "homepage": "https://github.com/edgrid/edgrid-template#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.2.0"
+  },
+  "dependencies": {
+    "ed-grid": "git+https://github.com/escueladigital/ED-GRID.git"
+  }
+}
