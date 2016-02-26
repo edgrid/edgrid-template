@@ -39,6 +39,6 @@
     "gulp-sass": "^2.2.0"
   },
   "dependencies": {
-    "ed-grid": "git+https://github.com/escueladigital/ED-GRID.git"
+    "ed-grid": "^2.1.0"
   }
 }
